@@ -1,14 +1,18 @@
-# flutter_project_template
-[![flutter_project_template](https://nokycucwgzweensacwfy.supabase.co/functions/v1/get_project_badge?projectName=flutter_project_template)](https://www.worklog.ai)
+# Golden ratio colors - it is an app that generates random colors based on the golden ratio algorithm
 
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+This app generates colors according to the HSV Color model. 
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+Saturation and Value parameters are constants whose values depend on whether the Light or Dark theme is used. 
 
-# Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+`Note:` Currently the app supports only the Light theme. 
+
+Hue is calculated based on the golden ratio algorithm. 
+
+
+![020_colorTheory_030_color_solid_cylinder_FHD](https://github.com/BohdanSamusko/golden_ratio_colors/assets/10655043/0b6e5522-044f-4c24-a9df-8cf4daf6fef4)
+
+
+As a result, the app provides users with random colors suitable for use as a background for different labels and texts that remain visible and clearly readable. 
+
+
+https://github.com/BohdanSamusko/golden_ratio_colors/assets/10655043/d4017816-8b86-4855-807d-c19d2ba8120b
